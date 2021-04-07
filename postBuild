@@ -1,0 +1,5 @@
+jupyter contrib nbextension install --user
+jupyter nbextension enable --py widgetsnbextension
+jupyter trust practice_consumer_behavior.ipynb
+jupyter trust practice_consumer_behavior_rounded_answers.ipynb
+jupyter trust practice_elasticity.ipynb
