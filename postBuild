@@ -2,3 +2,5 @@ jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
 jupyter trust consumer_behavior.ipynb
 jupyter trust elasticity.ipynb
+jupyter trust cost_minimization.ipynb
+jupyter trust long_run_competition.ipynb
