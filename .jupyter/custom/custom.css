@@ -2,9 +2,3 @@
 div.input, div.prompt, div.tooltiptext pre {
     display:none;
 }
-.output_result, .math {
-    display: table-cell;
-    text-align: center;
-    vertical-align: middle;
-    margin-left: 10%;
-}
