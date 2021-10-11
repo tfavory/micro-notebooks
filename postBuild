@@ -6,3 +6,4 @@ jupyter trust cost_minimization.ipynb
 jupyter trust long_run_competition.ipynb
 jupyter trust monopolistic_pricing.ipynb
 jupyter trust cournot_competition.ipynb
+jupyter trust externality.ipynb
